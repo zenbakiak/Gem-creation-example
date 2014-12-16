@@ -22,6 +22,6 @@ Gem::Specification.new do |spec|
   spec.add_development_dependency "rake", "~> 10.0"
 
   # TDD
-  spec.add_development_dependency 'minitest', '~> 5.3.3'
+  spec.add_development_dependency 'minitest', '~> 4.2'
 
 end
