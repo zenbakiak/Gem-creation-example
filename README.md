@@ -1,4 +1,4 @@
-# Foo
+# Gem Creation Example
 
 Foo is just a foo bar application
 
